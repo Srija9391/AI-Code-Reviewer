@@ -34,5 +34,5 @@ Use the insights to improve your code and coding practices.
 
 **Python:** The core programming language used to develop the application.
 
-http://localhost:8501/
+Check the application here: http://localhost:8501/
 
